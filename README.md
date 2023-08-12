@@ -49,4 +49,9 @@ Wi-Fi-ESP8285.py, Wi-Fi-failing.py, Wi-Fi-working-1.py, Wi-Fi-working-2.py, Wi-F
 $ some code
 $ some more code
 ```
-
+## Pico-BLE - Waveshare
+Pico-BLE.py
+```
+$ some code
+$ some more code
+```
