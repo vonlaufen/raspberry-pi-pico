@@ -10,13 +10,20 @@ $ some more code
 ```
 ## LED
 led.py
-Connect Red LED to D18
+Seeed Studio Grove Shield For Pi Pico V1.0. Connect Red LED to D18.
 ```
 $ some code
 $ some more code
 ```
 ## LED - Internal. Callback.
 led_callback.py
+```
+$ some code
+$ some more code
+```
+## LCD
+lcd.py, lcd1602.py
+Seeed Studio Grove Shield For Pi Pico V1.0. Connect LCD to I2C1.
 ```
 $ some code
 $ some more code
