@@ -10,6 +10,7 @@ $ some more code
 ```
 ## LED
 led.py
+Connect Red LED to D18
 ```
 $ some code
 $ some more code
